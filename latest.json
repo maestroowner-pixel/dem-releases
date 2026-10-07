@@ -1,0 +1,5 @@
+{
+  "_readme": "What the PHONES are told is the newest build. Raise a platform's version only once that store has APPROVED the build — a phone told about a version its store does not have yet sends somebody to look for an update that is not there. Read by utils/updateCheck.ts from the public copy of this file (brands/<id>/brand.json -> updateManifest). Empty url = the brand's storeLinks.",
+  "ios": { "version": "1.2.7", "url": "" },
+  "android": { "version": "1.2.7", "url": "" }
+}
